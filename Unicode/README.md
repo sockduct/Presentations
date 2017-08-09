@@ -20,3 +20,12 @@ This presentation was delivered at the Farmington Public Library on August 9, 20
 
 When I'd run into these issues, I couldn't find anyone who seems to be a Unicode or character encoding expert.  The answers I'd get were along the lines of you found a solution so don't worry about it.  As this was less than satisfying to me I decided to create this presentation to get my head around Unicode and character encoding.  I hope you like it.  Feel free to leave a comment or open an issue if you see something wrong/missing.
 
+## Notes on presentation files
+
+* The .pptx file was created in Microsoft PowerPoint 2013 albeit using an old template file
+  * This version has the speaker notes
+  * Annoyingly though, the embedded hyperlinks (i.e., in the Reference slides) aren't clickable.  Instead, you have to "right-click" and select Open Hyperlink.
+* The .pdf file was exported from PowerPoint 2013
+  * This version has clickable hyperlinks but unfortunately no speaker notes
+  * It is possible to export a full page PDF which includes the speaker notes.  However, the template I'm using has a bunch of cruft that it puts in there.  In order to publish this version of the slides I'd have to do some cleanup.  Perhaps in the future...
+
