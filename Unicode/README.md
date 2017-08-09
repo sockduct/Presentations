@@ -1,8 +1,7 @@
-####################################################################################################
 #
-# Unicode Presentation for [MUG](http://www.mug.org/2017/07/august-8th-2017-mug-meeting/)
+# Unicode Presentation for [MUG, August 2017](http://www.mug.org/2017/07/august-8th-2017-mug-meeting/)
 
-This presentation was delivered at the Farmington Public Library on August 9, 2017.  From getting back into programming for the last couple years I have repeated run into snags such as:
+This presentation was delivered at the Farmington Public Library on August 9, 2017 (See above link for details).  From getting back into programming for the last couple years I have repeated run into snags such as:
 * Garbled Ouput
   * When I ssh into a Linux system (terminal emulation), why is some of the output gibberish?
     * Seems like non-ASCII characters (outside of 0-127 range) aren't interpreted correctly
@@ -20,9 +19,4 @@ This presentation was delivered at the Farmington Public Library on August 9, 20
   * Math, Science, Music symbols, Emojis, Icon fonts - Unicode is clearly useful but I don't feel like I really grok Unicode
 
 When I'd run into these issues, I couldn't find anyone who seems to be a Unicode or character encoding expert.  The answers I'd get were along the lines of you found a solution so don't worry about it.  As this was less than satisfying to me I decided to create this presentation to get my head around Unicode and character encoding.  I hope you like it.  Feel free to leave a comment or open an issue if you see something wrong/missing.
-
-
-# Unicode Preso - Possible Improvements
-
-* Could better organize the reference section
 
