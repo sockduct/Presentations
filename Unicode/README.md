@@ -1,7 +1,8 @@
-#
-# Unicode Presentation for [MUG, August 2017](http://www.mug.org/2017/07/august-8th-2017-mug-meeting/)
+# Presentation - Unicode
+## Created as a talk for [MUG](http://www.mug.org) - August 8, 2017
 
-This presentation was delivered at the Farmington Public Library on August 9, 2017 (See above link for details).  From getting back into programming for the last couple years I have repeated run into snags such as:
+## Synopsis
+Presentation for the MUG Detroit metro area user group on getting your head around Unicode.  From getting back into programming for the last couple years I have repeated run into snags such as:
 * Garbled Ouput
   * When I ssh into a Linux system (terminal emulation), why is some of the output gibberish?
     * Seems like non-ASCII characters (outside of 0-127 range) aren't interpreted correctly
@@ -20,12 +21,19 @@ This presentation was delivered at the Farmington Public Library on August 9, 20
 
 When I'd run into these issues, I couldn't find anyone who seems to be a Unicode or character encoding expert.  The answers I'd get were along the lines of you found a solution so don't worry about it.  As this was less than satisfying to me I decided to create this presentation to get my head around Unicode and character encoding.  I hope you like it.  Feel free to leave a comment or open an issue if you see something wrong/missing.
 
-## Notes on presentation files
+## Links
+* [MUG user group information on presentation](http://www.mug.org/2017/07/august-8th-2017-mug-meeting/)
+* [Presentation recording (YouTube)](https://www.youtube.com/watch?v=ONf1x7pOZNg)
 
+## Directory Contents:
+* PowerPoint presentation
+    * Note:  Corrections tracked in GitHub if you/someone wants details
+* PDF version of PowerPoint presentation
+
+## Notes on presentation files
 * The .pptx file was created in Microsoft PowerPoint 2013 albeit using an old template file
   * This version has the speaker notes
   * Annoyingly though, the embedded hyperlinks (i.e., in the Reference slides) aren't clickable.  Instead, you have to "right-click" and select Open Hyperlink.
 * The .pdf file was exported from PowerPoint 2013
   * This version has clickable hyperlinks but unfortunately no speaker notes
   * It is possible to export a full page PDF which includes the speaker notes.  However, the template I'm using has a bunch of cruft that it puts in there.  In order to publish this version of the slides I'd have to do some cleanup.  Perhaps in the future...
-
