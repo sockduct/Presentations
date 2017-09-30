@@ -1,4 +1,3 @@
-####################################################################################################
 # Git+GitHub Intro Preso - Possible Improvements
 
 Thoughts after presenting to MUG on 9/13/2016:
@@ -11,4 +10,3 @@ Thoughts after presenting to MUG on 9/13/2016:
   * Using for "dot files" - keep all your configuration files in the cloud and synchronized across systems
   * Using for configuration management - keeping configuration templates and system in the cloud to facilitate collaboration
   * Using for script management (similar to above)
-
