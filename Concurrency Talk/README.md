@@ -1,5 +1,5 @@
 # Presentation on Concurrency
-## Created as a talk for [MUG](http://www.mug.org)
+## Created as a talk for [MUG](http://www.mug.org) - January 10, 2017
 
 ## Synopsis
 Presentation for the MUG Detroit metro area user group on concurrent programming in Python.  The talk covers the basics of using multi-threading, multi-processing and an event loop.  It also has lots of resources to check out at the end.  If you want more advice on getting to the next level of concurrent development in Python I would strongly recommend checking out Raymond Hettinger’s talk (referenced towards the end).
