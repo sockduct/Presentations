@@ -18,4 +18,4 @@ Presentation for the MUG Detroit metro area user group on concurrent programming
 * Added an additional references slide with all the sources I used for the presentation
 
 ## Licensing/Credit
-These program examples were derived from [David Beazley's](http://www.dabeaz.com/) various presentations.  If you use them, please give him credit.
+Many of these concurrent program examples (multi-threading, event loops) were derived from [David Beazley's](http://www.dabeaz.com/) various presentations.  If you use them, please give him credit.  The select program and some of the other examples were based on code from [Foundations of Python Network Programming, 2e](https://www.safaribooksonline.com/library/view/foundations-of-python/9781430230038/).
