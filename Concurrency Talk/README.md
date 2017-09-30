@@ -11,7 +11,7 @@ Presentation for the MUG Detroit metro area user group on concurrent programming
 
 ## Directory Contents:
 * PowerPoint presentation
-** Note:  Corrections tracked in GitHub if you/someone wants details
+    * Note:  Corrections tracked in GitHub if you/someone wants details
 * PDF version of PowerPoint presentation
 * All python script examples
 * Additional script examples (complete) to demonstrate select
