@@ -6,7 +6,6 @@ Presentation for the MUG Detroit metro area user group on getting started with G
 
 ## Links
 * [MUG user group information on presentation](http://www.mug.org/2016/09/september-13th-2016-mug-meeting/)
-
 * [Presentation recording (YouTube)](https://www.youtube.com/watch?v=4-uM4u-cuxg)
 
 ## Directory Contents:
