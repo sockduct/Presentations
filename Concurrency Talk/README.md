@@ -6,7 +6,6 @@ Presentation for the MUG Detroit metro area user group on concurrent programming
 
 ## Links
 * [MUG user group information on presentation](http://www.mug.org/2017/01/janary-10th-2017-mug-meeting/)
-
 * [Presentation recording (YouTube)](http://www.youtube.com/watch?v=iD0WetGt68k)
 
 ## Directory Contents:
