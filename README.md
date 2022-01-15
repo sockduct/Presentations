@@ -5,5 +5,5 @@
 * [Flask Overview - Presented at MUG, December 2018](Flask%20Overview)
 * [Introduction to Git and GitHub - Presented at MUG, September 2016](Git%2BGitHub%20Intro)
 * [Rust, a C/C++ Replacement? - Presented at MUG, January 2020](Rust)
+* [Selenium, Web Automation - Presented at MUG, January 2022](Selenium)
 * [Unicode - Presented at MUG, August 2017](Unicode)
-
